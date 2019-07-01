@@ -2,8 +2,10 @@
 
 after cloning repo to run server:
 
- cd iCatLight/server/ <br>  
+ cd iCatLight/server 
+ 
  yarn install <br>
+ 
  node server <br>
     
     
