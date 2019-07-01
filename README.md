@@ -2,7 +2,7 @@
 
 after cloning repo to run server:
 
- cd iCatLight/server/
+ cd iCatLight/server/ 
  yarn install
  node server
  
